@@ -1,6 +1,8 @@
-Hi there 👋
+Hi there 👋😄
 
-Join me and Let us Save Water, Conserve Energy, and try to Save the Earth, and keep our warm cozy home the way is is supposed to be.
+I am Dilanka Munasinghe, a Surveying Sciences major with a Specialization in Remote Sensing. Yet, more interested in pursuing a career in development.
+
+Join me in trying to Save the Earth by Saving Water, Conserving Energy. It might keep our warm cozy home the way is is supposed to be.
 
 - 🔭 I’m currently working on Mapping Solar Suitability for Agricultural Irrigation in the African Continent, with Dr. Mansoor at the International Water Management Institute as an Intern. So bear with me as most of my contributions are regarding Remote Sensing, Data Science, and Geographic Information Systems. Cheers!!!
 
