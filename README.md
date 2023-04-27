@@ -4,7 +4,7 @@ I am Dilanka Munasinghe, a Surveying Sciences major with a Specialization in Rem
 
 Join me in trying to Save the Earth by Saving Water, Conserving Energy. It might keep our warm cozy home the way is is supposed to be.
 
-- 🔭 I’m currently working on Mapping Solar Suitability for Agricultural Irrigation in the African Continent, with Dr. Mansoor at the International Water Management Institute as an Intern. So bear with me as most of my contributions are regarding Remote Sensing, Data Science, and Geographic Information Systems. Cheers!!!
+- 🔭 I’m currently working on assessing the irrigation capabilities and sustainable approaches to vegetable irrigation in the African Continent and on Mapping Solar Suitability for Agricultural Irrigation in the African Continent, with Dr. Mansoor at the International Water Management Institute as an Intern. So bear with me as most of my contributions are regarding Remote Sensing, Data Science, and Geographic Information Systems. Cheers!!!
 
 Thanks for visiting.
 
